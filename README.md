@@ -168,12 +168,6 @@ Dungeon-Master/
 
 ---
 
-## 📝 License
-
-MIT — feel free to fork, modify, and use for your own adventures.
-
----
-
 <p align="center">
   <em>⚔️ May your rolls be high and your HP never reach zero. ⚔️</em>
 </p>
